@@ -1,4 +1,5 @@
-#List of companies offering remote jobs
+#List of companies offering remote jobs with website links
+
 | Name                                         | Website                                                                         | Region                                       |
 | -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
 | 10up                                         | [Website](https://10up.com/)                                                    | Worldwide                                    |

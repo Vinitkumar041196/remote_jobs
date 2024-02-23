@@ -1,4 +1,4 @@
-#List of companies offering remote jobs with website links
+# List of companies offering remote jobs with website links
 
 | Name                                         | Website                                                                         | Region                                       |
 | -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |

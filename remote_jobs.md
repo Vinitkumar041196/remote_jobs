@@ -1,4 +1,5 @@
-# List of companies offering remote jobs with website links
+# List of companies offering remote jobs with website links and regions. 
+[Spreadsheet version](https://docs.google.com/spreadsheets/d/1NRoVymlT7hWXkbx_rmgAVwx0DnY5FSUxsofHxlkHppU/edit?usp=sharing)
 
 | Name                                         | Website                                                                         | Region                                       |
 | -------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
